@@ -1,7 +1,3 @@
-Below is an example of a new, complete README file for your DoughChecker.ai project. You can adjust details as needed.
-
----
-
 # DoughChecker.ai
 
 DoughChecker.ai is an application that analyzes images of dough to calculate its roundness. It consists of a Python backend (using Flask and OpenCV) for image processing and a Next.js frontend for the user interface.
@@ -13,8 +9,6 @@ DoughChecker.ai is an application that analyzes images of dough to calculate its
 - [Local Development Setup](#local-development-setup)
   - [Backend Setup](#backend-setup)
   - [Frontend Setup](#frontend-setup)
-- [Deployment with Vercel](#deployment-with-vercel)
-- [Troubleshooting](#troubleshooting)
 
 ## Overview
 
